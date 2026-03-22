@@ -35,6 +35,7 @@ To prevent hallucinations, the LLM is strictly prompted to generate responses ba
 
 💻 Want to try it yourself?
 You can grab the code from my GitHub, insert your Gemini API key, and run it locally. Just install the dependencies and type this into your terminal:
+
 python -m streamlit run app.py
 
 🛠️ Tech Stack: Python, Streamlit, Google Gemini API, Sentence Transformers, Scikit-Learn, Pandas, NumPy
