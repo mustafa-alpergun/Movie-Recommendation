@@ -20,6 +20,8 @@ python -m streamlit run app.py
 
 Görüşlerinizi bekliyorum! 🚀
 
+veri : https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
 🇬🇧 I am thrilled to share my new AI project, which I have been working on for quite a while and have finally completed! 🍿🎬 Transforming machine learning algorithms and Large Language Models (LLMs) into fun, everyday products is always a great experience. 👇
 
 🔍 Project: Smart Cinema Assistant powered by RAG
@@ -41,3 +43,5 @@ python -m streamlit run app.py
 🛠️ Tech Stack: Python, Streamlit, Google Gemini API, Sentence Transformers, Scikit-Learn, Pandas, NumPy
 
 I would love to hear your feedback! 🚀
+
+data : https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
