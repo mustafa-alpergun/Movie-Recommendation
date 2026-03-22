@@ -24,7 +24,7 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 ozetler = df_sample['overview'].tolist()
 embeddings = model.encode(ozetler, show_progress_bar=True)
 
-GEMINI_API_KEY = "AIzaSyC3FPYa12wB7NZK56mLjO50yK0Gvgz9zNA" 
+GEMINI_API_KEY = "google apı key girin" 
 genai.configure(api_key=GEMINI_API_KEY)
 model_gemini = genai.GenerativeModel('gemini-2.5-flash')
 
